@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on FHTML/CSS/JS/PHP
 - 🤔 I’m looking for help with my friends
 - 💬 Ask me about HTML/CSS/JS/PHP
-- 📫 How to reach me: 
-- 😄 Pronouns: 
+- 📫 How to reach me: qasimsarwrai2020@gmail.com
+- 😄 Pronouns: ...
 - ⚡ Fun fact: Never stop learning!
 -->
 ![Qasim Sarwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasim345&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
